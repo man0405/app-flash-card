@@ -50,7 +50,7 @@ A modern Progressive Web App (PWA) for creating, managing, and studying flashcar
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/flash-card-app.git
+   git clone https://github.com/man0405/app-flash-card.git
    cd flash-card-app
    ```
 
