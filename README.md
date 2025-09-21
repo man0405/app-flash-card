@@ -124,7 +124,6 @@ src/
 │   ├── Quiz.tsx
 │   └── SyncStatus.tsx
 ├── hooks/                # Custom React hooks
-│   ├── useIndexedDBStorage.ts
 │   ├── useLocalStorage.ts
 │   ├── useOnlineStatus.ts
 │   └── useSyncStatus.ts
